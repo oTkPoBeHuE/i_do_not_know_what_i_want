@@ -77,8 +77,8 @@ Telegram <img alt="telegram" src="https://upload.wikimedia.org/wikipedia/commons
 ## Чего нету
 Пока нету примеров визуального стиля сайта и тому подобного.
 Логотип и илюстрации будут встраиваться в сатьи на сайтах на подобие сайтов 
-[habrahabr.ru](https://habrahabr.ru)
-[medium.com](https://medium.com)
+[habrahabr.ru](https://habrahabr.ru) и
+[medium.com](https://medium.com).
 
 А позже на сайт с документацией.
 ## Примеры
@@ -94,7 +94,7 @@ Telegram <img alt="telegram" src="https://upload.wikimedia.org/wikipedia/commons
 <img alt="React" src="https://b.radikal.ru/b31/2005/37/f3a96564752f.jpg" height="40px" />
 
 - Urban переводится как городской:
-Можно сделать стилизованый городской указатель в большем варианте которого можно видеть поддерживаемые фреймоврки
+Можно сделать стилизованый городской указатель в большем варианте которого можно видеть поддерживаемые мессенджеры
 
 <img alt="React" src="https://studio47.ru/img/projects/mal-arx-form/art-obekt-ukazatel-goroda/1.jpg" height="150px" /> 
 
@@ -105,5 +105,5 @@ Telegram <img alt="telegram" src="https://upload.wikimedia.org/wikipedia/commons
 - Если обыграть тот тот факт что это универсальный чат бот: 
   Можно нарисовать робота-франкенштейна похожую на собачку маскота telegram :)
 
-Еще Urban бот помимо городского в рамках проекта расшифровывается как **U**niversal **R**eact **B**ot on **An**abolics :)
+Еще **Urban**  помимо городского в рамках проекта расшифровывается как **U**niversal **R**eact **B**ot on **An**abolics :)
 
