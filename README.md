@@ -5,9 +5,9 @@
 Представляет собой JavaScript-библиотеку для создания универсальных(кроссфплатформенных) чат-ботов на [React.js](https://ru.reactjs.org/) <img alt="react" src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png" height="20px" /> в [реактивном](https://clck.ru/HFwFY) стиле.
 
 Продукт не имеет UI.
-Это JavaScript-библиотека. То есть **это набор кода, для написания другими программистами другого кода** а именно чат ботов для мессенджеров.
+Это JavaScript-библиотека. То есть **это набор кода, для написания другими программистами другого кода**, а именно чат ботов для мессенджеров.
 
-Под универсальностью мы понимаем что бот написанный с помощью [urban-bot](https://github.com/urban-bot/urban-bot/)  будет разобтать сразу с несколькими месенджерами.
+Под универсальностью мы понимаем, что бот написанный с помощью [urban-bot](https://github.com/urban-bot/urban-bot/)  будет работать сразу с несколькими месенджерами.
 
 Пока поддерживаются:
 - [x] Telegram <img alt="telegram" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" height="20px" />
@@ -30,7 +30,7 @@
 То есть набор кода для написания другими программистами другого кода, а именно сайтов.
 
 [React.js](https://ru.reactjs.org/)  Позволяет разрабатывать сайты в [реактивном](https://clck.ru/HFwFY) стиле. Так же писать крссбраузерный код, то есть сайт написанный на [React.js](https://ru.reactjs.org/) 
-будет одинаково выглядеть и работать в Internet Explorer 11, Chrome и Safari. 
+будет одинаково выглядеть и работать в _Internet Explorer 11_, _Chrome_ и _Safari_. 
 
 Основа [React.js](https://ru.reactjs.org/) <img alt="react" src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png" height="20px" /> это синтаксис [JSX](https://en.wikipedia.org/wiki/React_(web_framework)#JSX):
 
