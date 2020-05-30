@@ -30,7 +30,7 @@
 То есть набор кода для написания другими программистами другого кода, а именно сайтов.
 
 [React.js](https://ru.reactjs.org/)  Позволяет разрабатывать сайты в [реактивном](https://clck.ru/HFwFY) стиле. Так же писать крссбраузерный код, то есть сайт написанный на [React.js](https://ru.reactjs.org/) 
-будет одинаково выглядеть и работать в _Internet Explorer 11_, _Chrome_ и _Safari_. 
+будет одинаково выглядеть и работать в разных браузерх, например таких как _Internet Explorer 11_, _Chrome_ и _Safari_. 
 
 Основа [React.js](https://ru.reactjs.org/) <img alt="react" src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png" height="20px" /> это синтаксис [JSX](https://en.wikipedia.org/wiki/React_(web_framework)#JSX):
 
@@ -45,7 +45,7 @@
 `<div> </div>` и `<UserImage />`.
  
 Например факт, что разработчики на React.js постоянно пишут jsx, был обыгран в логотипе JavaScript-библиотеки
-[styled-components](https://styled-components.com/), которая позволяет с помощью jsx описывать css-стили, то есть "наводить красоту". 
+[styled-components](https://styled-components.com/), которая позволяет с помощью jsx описывать css-стили, то есть «наводить красоту». 
 В логотипе между угловыми скобками было помещено emoji накрашивания ногтей:
 
 <img alt="styled-components" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" height="100px" />
@@ -58,8 +58,11 @@
 Причем бот получается универсальным(кроссфплатформенным) –– то есть чат-бот написаныый с помощью Urban-bot может одновременно работать в
 Telegram <img alt="telegram" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" height="20px" />, WhatsApp <img alt="whatsApp" src="https://cdn2.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-whatsapp-circle-512.png" height="20px" /> и других платформах.
 
-Вместо того чтобы написать 2,3,4 разных программы теперь можно написать одну универсальную. 
+Вместо того чтобы написать две, три или четыре разные программы теперь можно написать всего одну универсальную. 
  
+К тому же программы в [реактивном](https://clck.ru/HFwFY) стиле более понятны, что помогает вникать другим разработчикам, меньше подвержены ошибкам
+и разрабатываются быстрее.
+
 ## Пользователи продуктом
 Программисты, разработчики чат-ботов.
 
@@ -80,7 +83,7 @@ Telegram <img alt="telegram" src="https://upload.wikimedia.org/wikipedia/commons
 А позже на сайт с документацией.
 ## Примеры
 Например у проекта [Deno <img alt="deno" src="https://deno.land/logo.svg" height="20px" />](https://github.com/urban-bot/urban-bot/)
-есть логотип c маскотом <img alt="deno" src="https://deno.land/logo.svg" height="20px" /> а так же картинка, которую они вставляют в статьи и на сайт.
+есть логотип c маскотом <img alt="deno" src="https://deno.land/logo.svg" height="20px" />, а так же картинка, которую они вставляют в статьи и на сайт.
 
 <img alt="React" src="https://deno.land/v1_wide.jpg" height="300px" />
 
