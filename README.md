@@ -50,7 +50,7 @@
 
 <img alt="styled-components" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" height="100px" />
 
-## Чем Urban-bot
+## Почему Urban-bot это круто
 
 Проект [urban-bot](https://github.com/urban-bot/urban-bot/) позволяет c помощью [React.js](https://ru.reactjs.org/) <img alt="React" src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png" height="20px" />  и jsx-синтаксиса в [реактивном](https://clck.ru/HFwFY) стиле
 описывать интерфейс чат бота.
@@ -71,6 +71,13 @@ Telegram <img alt="telegram" src="https://upload.wikimedia.org/wikipedia/commons
 И, **илюстрация**, которая будет в заголовке статей и шапке сайта.
 
 
+## Чего нету
+Пока нету примеров визуального стиля сайта и тому подобного.
+Логотип и илюстрации будут встраиваться в сатьи на сайтах на подобие сайтов 
+[habrahabr.ru](https://habrahabr.ru)
+[medium.com](https://medium.com)
+
+А позже на сайт с документацией.
 ## Примеры
 Например у проекта [Deno <img alt="deno" src="https://deno.land/logo.svg" height="20px" />](https://github.com/urban-bot/urban-bot/)
 есть логотип c маскотом <img alt="deno" src="https://deno.land/logo.svg" height="20px" /> а так же картинка, которую они вставляют в статьи и на сайт.
@@ -93,7 +100,7 @@ Telegram <img alt="telegram" src="https://upload.wikimedia.org/wikipedia/commons
 <img alt="React" src="https://image.freepik.com/free-vector/_23-2147533887.jpg" height="150px" /> 
 
 - Если обыграть тот тот факт что это универсальный чат бот: 
-  Можно нарисовать робота-франкенштейна похожую на telegram :)
+  Можно нарисовать робота-франкенштейна похожую на собачку маскота telegram :)
 
 Еще Urban бот помимо городского в рамках проекта расшифровывается как **U**niversal **R**eact **B**ot on **An**abolics :)
 
