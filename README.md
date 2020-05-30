@@ -26,11 +26,11 @@
 
 ## React.js
 
-[React.js](https://ru.reactjs.org/) <img alt="react" src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png" height="20px" /> –– это JavaScript-библиотека для написанеия сайтов.
+[React.js](https://ru.reactjs.org/) <img alt="react" src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png" height="20px" /> –– это JavaScript-библиотека для написания сайтов.
 То есть набор кода для написания другими программистами другого кода, а именно сайтов.
 
 [React.js](https://ru.reactjs.org/)  Позволяет разрабатывать сайты в [реактивном](https://clck.ru/HFwFY) стиле. Так же писать крссбраузерный код, то есть сайт написанный на [React.js](https://ru.reactjs.org/) 
-будет одинаково выглядеть и работать в разных браузерх, например таких как _Internet Explorer 11_, _Chrome_ и _Safari_. 
+будет одинаково выглядеть и работать в разных браузерах, например таких, как _Internet Explorer 11_, _Chrome_ и _Safari_. 
 
 Основа [React.js](https://ru.reactjs.org/) <img alt="react" src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png" height="20px" /> это синтаксис [JSX](https://en.wikipedia.org/wiki/React_(web_framework)#JSX):
 
@@ -40,7 +40,7 @@
    <UserImage />
 </div>
 ```
-Это конструкции очень похожие на html. Только пользователь может описать помимо html-тегов собственные.
+Это конструкции очень похожие на html. Только пользователь может описать помимо html-тегов собственые.
 В нем между угловыми скобками `<` и `>` помещается текст.
 `<div> </div>` и `<UserImage />`.
  
@@ -55,7 +55,7 @@
 Проект [urban-bot](https://github.com/urban-bot/urban-bot/) позволяет c помощью [React.js](https://ru.reactjs.org/) <img alt="React" src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png" height="20px" />  и jsx-синтаксиса в [реактивном](https://clck.ru/HFwFY) стиле
 описывать интерфейс чат бота.
 
-Причем бот получается универсальным(кроссфплатформенным) –– то есть чат-бот написаныый с помощью Urban-bot может одновременно работать в
+Причем бот получается универсальным(кроссфплатформенным) –– то есть чат-бот написанный с помощью Urban-bot может одновременно работать в
 Telegram <img alt="telegram" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" height="20px" />, WhatsApp <img alt="whatsApp" src="https://cdn2.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-whatsapp-circle-512.png" height="20px" /> и других платформах.
 
 Вместо того чтобы написать две, три или четыре разные программы теперь можно написать всего одну универсальную. 
@@ -71,18 +71,18 @@ Telegram <img alt="telegram" src="https://upload.wikimedia.org/wikipedia/commons
 В ближайшее время будет сайт с документацией проекта а
 также серия статей на IT-ресурсах.
 Нужен **логотип**.
-И, **илюстрация**, которая будет в заголовке статей и шапке сайта.
+И, **иллюстрация**, которая будет в заголовке статей и шапке сайта.
 
 
 ## Чего нету
 Пока нету примеров визуального стиля сайта и тому подобного.
-Логотип и илюстрации будут встраиваться в сатьи на сайтах на подобие сайтов 
+Логотип и иллюстрации будут встраиваться в сатьи на сайтах на подобие сайтов 
 [habrahabr.ru](https://habrahabr.ru) и
 [medium.com](https://medium.com).
 
 А позже на сайт с документацией.
 ## Примеры
-Например у проекта [Deno <img alt="deno" src="https://deno.land/logo.svg" height="20px" />](https://github.com/urban-bot/urban-bot/)
+Например у проекта [Deno <img alt="deno" src="https://deno.land/logo.svg" height="20px" />](https://deno.land/v1)
 есть логотип c маскотом <img alt="deno" src="https://deno.land/logo.svg" height="20px" />, а так же картинка, которую они вставляют в статьи и на сайт.
 
 <img alt="React" src="https://deno.land/v1_wide.jpg" height="300px" />
@@ -98,7 +98,7 @@ Telegram <img alt="telegram" src="https://upload.wikimedia.org/wikipedia/commons
 
 <img alt="React" src="https://studio47.ru/img/projects/mal-arx-form/art-obekt-ukazatel-goroda/1.jpg" height="150px" /> 
 
-- Илюстрация с ночным городом 
+- Иллюстрация с ночным городом 
 
 <img alt="React" src="https://image.freepik.com/free-vector/_23-2147533887.jpg" height="150px" /> 
 
