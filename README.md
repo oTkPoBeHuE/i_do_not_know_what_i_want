@@ -98,9 +98,10 @@ Telegram <img alt="telegram" src="https://upload.wikimedia.org/wikipedia/commons
 
 <img alt="React" src="https://studio47.ru/img/projects/mal-arx-form/art-obekt-ukazatel-goroda/1.jpg" height="150px" /> 
 
-- Иллюстрация с ночным городом 
+или иллюстрация с ночным городом
 
 <img alt="React" src="https://image.freepik.com/free-vector/_23-2147533887.jpg" height="150px" /> 
+
 
 - Если обыграть тот тот факт что это универсальный чат бот: 
   Можно нарисовать робота-франкенштейна похожую на собачку маскота telegram :)
