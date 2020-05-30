@@ -63,7 +63,7 @@ Telegram <img alt="telegram" src="https://upload.wikimedia.org/wikipedia/commons
 К тому же программы в [реактивном](https://clck.ru/HFwFY) стиле более понятны, что помогает вникать другим разработчикам, они меньше подвержены ошибкам
 и разрабатываются быстрее.
 
-## Пользователи продуктом
+## Пользователи
 Программисты разработчики чат-ботов.
 
 ## Что нужно
@@ -94,7 +94,7 @@ Telegram <img alt="telegram" src="https://upload.wikimedia.org/wikipedia/commons
 <img alt="React" src="https://b.radikal.ru/b31/2005/37/f3a96564752f.jpg" height="40px" />
 
 - Urban переводится как городской:
-Можно сделать стилизованый городской указатель в большем варианте которого можно видеть поддерживаемые мессенджеры
+Можно сделать стилизованный городской указатель в большем варианте которого можно видеть поддерживаемые мессенджеры
 
 <img alt="React" src="https://studio47.ru/img/projects/mal-arx-form/art-obekt-ukazatel-goroda/1.jpg" height="150px" /> 
 
